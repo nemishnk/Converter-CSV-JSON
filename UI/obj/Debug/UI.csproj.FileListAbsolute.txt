@@ -1,0 +1,11 @@
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\UI.exe
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\UI.pdb
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\Coreconverter.dll
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\Coreconverter.pdb
+C:\Users\NeMo\source\repos\Excel Converter\UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NeMo\source\repos\Excel Converter\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\NeMo\source\repos\Excel Converter\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\NeMo\source\repos\Excel Converter\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\NeMo\source\repos\Excel Converter\UI\obj\Debug\UI.exe
+C:\Users\NeMo\source\repos\Excel Converter\UI\obj\Debug\UI.pdb

@@ -1,0 +1,8 @@
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\bin\Debug\Coreconverter.dll
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\bin\Debug\Coreconverter.pdb
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\obj\Debug\Coreconverter.csproj.CoreCompileInputs.cache
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\obj\Debug\Coreconverter.csproj.CopyComplete
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\obj\Debug\Coreconverter.dll
+C:\Users\NeMo\source\repos\Excel Converter\Coreconverter\obj\Debug\Coreconverter.pdb
